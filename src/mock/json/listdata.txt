@@ -1,0 +1,138 @@
+{
+  "mine_info": [
+    {
+      "id": "1",
+      "name": "个人信息",
+      "icon": "female",
+      "url": "person_info"
+    },
+    {
+      "id": "2",
+      "name": "安全设置",
+      "icon": "fingerprint",
+      "url": "security"
+    },
+    {
+      "id": "3",
+      "name": "交易信息",
+      "icon": "hands-helping",
+      "url": "trade_info"
+    },
+    {
+      "id": "4",
+      "name": "收货地址",
+      "icon": "home-alt",
+      "url": "adder_info"
+    }
+  ],
+  "friends_info": [
+    {
+      "id": "1",
+      "name": "最近联系",
+      "icon": "comments",
+      "url": "recent"
+    },
+    {
+      "id": "2",
+      "name": "好    友",
+      "icon": "user-friends",
+      "url": "friends_list"
+    },
+    {
+      "id": "3",
+      "name": "群    组",
+      "icon": "theater-masks",
+      "url": "group_list"
+    }
+  ],
+  "books_info": [
+    {
+      "id": "1",
+      "name": "书架",
+      "icon": "list-alt",
+      "url": "bookshelf"
+    },
+    {
+      "id": "2",
+      "name": "浏览历史",
+      "icon": "history",
+      "url": "history"
+    }
+  ],
+  "admin_dashboard": [
+    {
+      "id": "1",
+      "name": "图书管理",
+      "icon": "book-dead",
+      "url": "admin_categorys"
+    },
+    {
+      "id": "2",
+      "name": "用户管理",
+      "icon": "users",
+      "url": "admin_user"
+    },
+    {
+      "id": "3",
+      "name": "角色管理",
+      "icon": "user-lock",
+      "url": "admin_role"
+    },
+    {
+      "id": "4",
+      "name": "好友管理",
+      "icon": "user-friends",
+      "url": "admin_friends"
+    },
+    {
+      "id": "5",
+      "name": "群组管理",
+      "icon": "object-ungroup",
+      "url": "admin_group"
+    },
+    {
+      "id": "6",
+      "name": "日志管理",
+      "icon": "blog",
+      "url": "admin_log"
+    },
+
+    {
+      "id": "7",
+      "name": "评论管理",
+      "icon": "comments",
+      "url": "admin_comments"
+    },
+
+    {
+      "id": "8",
+      "name": "收货地址管理",
+      "icon": "ship",
+      "url": "admin_ship"
+    },
+    {
+      "id": "9",
+      "name": "已购图书管理",
+      "icon": "shopping-cart",
+      "url": "admin_purchase"
+    },
+    {
+      "id": "10",
+      "name": "标签管理",
+      "icon": "tags",
+      "url": "admin_tags"
+    },
+    {
+      "id": "98",
+      "name": "返回上页",
+      "icon": "arrow-left",
+      "url": "-1"
+    },
+    {
+      "id": "99",
+      "name": "注销登录",
+      "icon": "sign-out",
+      "url": "admin_login"
+    }
+  ]
+}
